@@ -1,0 +1,28 @@
+<seller>
+<seller>
+<ID>1</ID>
+<Name>john doe</Name>
+<Address>H#38,R#,banani,dhaka</Address>
+
+<Department>sales<Department>
+<SALLARY>$200</SALLARY>
+</seller>
+
+<seller>
+<ID>2</ID>
+<Name>mARK ZUKERBARG</Name>
+<Address>FLAT 1/2,MIRPUR DHAKA</Address>
+
+<Department>ACCOUNTS<Department>
+<SALLARY>$120</SALLARY>
+</seller
+
+<seller>
+<ID>3</ID>
+<Name>aKA BOSKI</Name>
+<Address>mOHAKHALI</Address>
+
+<Department>HUMAN RESOURCE<Department>
+<SALLARY>$130</SALLARY>
+</seller
+

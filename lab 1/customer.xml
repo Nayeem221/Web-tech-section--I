@@ -1,0 +1,19 @@
+<customer>
+<customer>
+<SL.NO>23</SL.NO>
+<NAME>John Carter</NAME>
+<AdmissionDate>25/12/2015</AdmissionDate>
+</customer>
+
+<customer>
+<SL.NO>29</SL.NO>
+<NAME>Bob Marshal</NAME>
+<AdmissionDate>13/01/1999</AdmissionDate>
+</customer>
+
+<customer>
+<SL.NO>35</SL.NO>
+<NAME >Clarkkent</NAME>
+<AdmissionDate>17/06/2025</AdmissionDate>
+</customer>
+</customer>
